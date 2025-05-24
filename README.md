@@ -1,3 +1,3 @@
-# readme.md
+# Thomas Aidan Curran
 Thomas Aidan Curran is Group Chief Technology Officer and Chief AI Officer at Northern Data Group, where he leads strategy across high-performance computing and artificial intelligence. He has held leadership roles at SAP, Bertelsmann, and Deutsche Telekom, and is the founder of Ory (Munich, Germany), an open-source project focused on secure, scalable infrastructure. He founded Component Software (Cambridge, MA) that made SAP's Netweaver product. Thomas holds a degree from the University of Pennsylvania, Wharton School and was a faculty member, and conducted research at The Wharton Analysis Center (UPenn), the Berlin University of the Arts (Visual Communication), and the Technical University of Berlin (Computer Science Deptartment).
 mail@thomasaidancurran.com
